@@ -1,3 +1,4 @@
+test.fetch();
 rs.close();
 // do the thing you do
 public class OracleJdbcTest
