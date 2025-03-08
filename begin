@@ -1,3 +1,4 @@
+Connection con;
 test.fetch();
 rs.close();
 // do the thing you do
