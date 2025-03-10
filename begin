@@ -1,3 +1,4 @@
+try {
 Connection con;
 test.fetch();
 rs.close();
