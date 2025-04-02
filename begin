@@ -1,3 +1,4 @@
+String driverClass = "oracle.jdbc.driver.OracleDriver";
 BufferedWriter out = null;
 out.close();
 PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
